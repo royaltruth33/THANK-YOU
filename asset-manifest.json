@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rounder333/static/css/main.e6c13ad2.css",
+    "main.js": "/rounder333/static/js/main.a3e837b6.js",
+    "static/js/453.a9c43155.chunk.js": "/rounder333/static/js/453.a9c43155.chunk.js",
+    "index.html": "/rounder333/index.html",
+    "main.e6c13ad2.css.map": "/rounder333/static/css/main.e6c13ad2.css.map",
+    "main.a3e837b6.js.map": "/rounder333/static/js/main.a3e837b6.js.map",
+    "453.a9c43155.chunk.js.map": "/rounder333/static/js/453.a9c43155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a3e837b6.js"
+  ]
+}
